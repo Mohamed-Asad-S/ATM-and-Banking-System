@@ -107,7 +107,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="2808" height="3500" alt="image" src="https://github.com/user-attachments/assets/c24dd22b-a351-41db-80f9-5d2268fc7845" />
 
 
 # SEQUENCE DIAGRAM
