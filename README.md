@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
+# Reg No: 212225040238
+# Name: Mohamed Asad S
 # Date:
 
 
